@@ -7,7 +7,7 @@
 </svelte:head>
 
 <main>
-	<h1>SvelteKit - First attempt with Vercel!</h1>
+	<h1>SvelteKit - First attempt with Vercel! Update ONE.</h1>
 
 	<Counter />
 
