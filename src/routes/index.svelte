@@ -7,11 +7,11 @@
 </svelte:head>
 
 <main>
-	<h1>Hello world!</h1>
+	<h1>SvelteKit - First attempt with Vercel!</h1>
 
 	<Counter />
 
-	<p>SvelteKit - First Attempt with Vercel!</p>
+	<p>Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte apps.</p>
 </main>
 
 <style>
